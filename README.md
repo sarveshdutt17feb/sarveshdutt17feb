@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarveshdutt17feb
 - 👀 I’m interested in Development ...
-- 🌱 I’m currently learning Mern Stack..
+- 🌱 I’m currently learning and working on Mern Stack..
 - 💞️ I’m looking to collaborate on mern projects
 - 📫 reach me at sarveshdutt40@gmail.com
 
