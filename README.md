@@ -1,7 +1,8 @@
 First of all, thanks for visiting my profile. Here, what you should know about me:
-  I am a self driven passionate coder who loves to solve problems and write efficient codes.
-  My primary coding language: Python.
--  👋 Hi, I am Sarvesh Dutt
+
+- I am a self driven passionate coder who loves to solve problems and write efficient codes.
+-  My primary coding language: Java/Javascript.
+-  👋 Hi, I am Sarvesh Richhariya
 - 👀 I’m interested in Development ...
 - 🌱 I’m currently working on full Stack..
 - 💞️ I’m looking to collaborate on open source projects
