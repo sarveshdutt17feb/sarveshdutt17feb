@@ -2,7 +2,7 @@
 - I am a self driven passionate coder who loves to solve problems and write efficient codes.
 -  My primary coding language: Java/Javascript.
 -  👋 Hi, I am <b>Sarvesh Richhariya</b>
-- 👀 I am happy to discuss about: Data Structures and Algorithms, Programming in javascript/Java, Computer concepts(Operating Systems,Computer Networking,Databases).
+- 👀 I am happy to discuss about: Data Structures and Algorithms, Programming in Java/Javascript, Computer concepts(Operating Systems,Computer Networking,Databases).
 - 🌱 I’m currently working on full Stack Dev.
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 reach me at sarveshdutt40@gmail.com
