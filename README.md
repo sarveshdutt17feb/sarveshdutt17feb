@@ -1,7 +1,7 @@
   ## Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Sarvesh
   ![version :26.12.2021](https://img.shields.io/badge/version-14.08.2021-informational) &nbsp;
   ![profile count](https://komarev.com/ghpvc/?username=sarveshdutt17feb&color=red)&nbsp;
-  [![GitHub Sarvesh Richhariya](https://img.shields.io/github/followers/sarvesh Richhariya?label=follow&style=social)](https://github.com/sarveshdutt17feb)&nbsp;
+  [![GitHub Sarvesh Richhariya](https://img.shields.io/github/followers/sarvesh Dutt Richhariya?label=follow&style=social)](https://github.com/sarveshdutt17feb)&nbsp;
   
   <b>First of all, thanks for visiting my profile. Here, what you should know about me:</b>
 - I am a self driven passionate coder who loves to solve problems and write efficient codes.
