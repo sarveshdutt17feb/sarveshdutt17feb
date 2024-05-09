@@ -6,7 +6,7 @@
   ## 👨🏻‍💻 &nbsp;About Me
 
   <b>First of all, thanks for visiting my profile. Here, what you should know about me:</b>
-- I am a self driven passionate coder who loves to solve problems and write efficient codes.
+- I am a Computer science Grad. and  self driven passionate coder who loves to solve problems and write efficient codes.
 -  My primary coding language: Java/Javascript.
 
 - 👀 I am happy to discuss about: Data Structures and Algorithms, Programming in Java/Javascript, Computer concepts(Operating Systems,Computer Networking,Databases).
