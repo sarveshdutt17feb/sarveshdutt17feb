@@ -10,7 +10,7 @@
 -  My primary coding language: Java/Javascript.
 
 - 👀 I am happy to discuss about: Data Structures and Algorithms, Programming in Java/Javascript, Computer concepts(Operating Systems,Computer Networking,Databases).
-- 🌱 I’m currently working on full Stack Dev.
+- 🌱 I’m currently working on Backend Dev.
 - 💞️ I’m looking to collaborate on open source projects.
 
 
