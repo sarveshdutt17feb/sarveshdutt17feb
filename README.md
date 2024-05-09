@@ -25,6 +25,10 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 
+## 📫 &nbsp; How to reach me:
+<a href="https://www.linkedin.com/in/sarvesh-dutt"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:sarveshdutt40@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+
 
 <!---
 sarveshdutt17feb/sarveshdutt17feb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
