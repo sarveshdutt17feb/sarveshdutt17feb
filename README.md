@@ -9,7 +9,7 @@
 - I am a Software Engineer and  self driven passionate coder who loves to solve problems and write efficient codes.
 -  My primary coding language: Java/Javascript.
 
-- 👀 I am happy to discuss about: Data Structures and Algorithms, Programming in Java/Javascript, Computer concepts(Operating Systems,Computer Networking,Databases).
+- 👀 I am happy to discuss about: Data Structures and Algorithms, Programming in Java/Javascript, Computer concepts(Operating Systems,Computer Networking,Databases), Low Level Design, High Level Design.
 - 🌱 I’m currently working on Backend Dev.
 - 💞️ I’m looking to collaborate on open source projects.
 
