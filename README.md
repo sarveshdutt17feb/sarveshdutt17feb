@@ -5,7 +5,7 @@
 
   ## 👨🏻‍💻 &nbsp;About Me
 
-  <b>Here, what you should know about me:</b>
+  <b>Thanks for visiting my profile.Here, what you should know about me:</b>
 - I am a Software Engineer and  self driven passionate coder who loves to solve problems and write efficient codes.
 -  My primary coding language: Java.
 
