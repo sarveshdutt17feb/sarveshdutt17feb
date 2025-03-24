@@ -5,12 +5,12 @@
 
   ## 👨🏻‍💻 &nbsp;About Me
 
-  <b>First of all, thanks for visiting my profile. Here, what you should know about me:</b>
+  <b>Here, what you should know about me:</b>
 - I am a Software Engineer and  self driven passionate coder who loves to solve problems and write efficient codes.
--  My primary coding language: Java/Javascript.
+-  My primary coding language: Java.
 
-- 👀 I am happy to discuss about: Data Structures and Algorithms, Programming in Java/Javascript, Computer concepts(Operating Systems,Computer Networking,Databases), Low Level Design, High Level Design.
-- 🌱 I’m currently working on Backend Dev.
+- 👀 I am happy to discuss about: Data Structures and Algorithms, Programming in Java, Computer concepts(Operating Systems,Computer Networking,Databases), Low Level Design, High Level Design.
+- 🌱 I’m currently working on Backend Development.
 - 💞️ I’m looking to collaborate on open source projects.
 
 
