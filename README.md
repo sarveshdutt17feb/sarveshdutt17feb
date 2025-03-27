@@ -1,4 +1,6 @@
   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sarvesh Richhariya</h1>
+
+  ## Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Sarvesh
   ![version :08.02.2025](https://img.shields.io/badge/version-14.08.2021-informational) &nbsp;
   ![profile count](https://komarev.com/ghpvc/?username=sarveshdutt17feb&color=red)&nbsp;
   ![build: passing](https://img.shields.io/badge/build-passing-success)
