@@ -1,17 +1,17 @@
-  ## Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Sarvesh
+  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sarvesh Richhariya</h1>
   ![version :08.02.2025](https://img.shields.io/badge/version-14.08.2021-informational) &nbsp;
   ![profile count](https://komarev.com/ghpvc/?username=sarveshdutt17feb&color=red)&nbsp;
   ![build: passing](https://img.shields.io/badge/build-passing-success)
 
   ## 👨🏻‍💻 &nbsp;About Me
 
-  <b>Thanks for visiting my profile</b>
+<b>Thanks for visiting my profile</b>
 <h3 align="center">I am a Backend Developer with strong Problem solving skills using Datastructres & Algorithms, Database and SQL, Low Level Design, High Level Design and currently upskilling myself using scaler!</h3>
 -  My primary coding language: Java and I am flexible to learn any language.
 
-- 👀 I am a quick and analytical Learner love to discuss about: Data Structures and Algorithms, Programming in Java, Computer concepts(Operating Systems,Computer Networking, Databases, Problem Solving), Low Level Design, High Level Design.
-- 🌱 I’m currently learning **System Design!**
-- 📫 How to reach me **sarveshdutt1999@outlook.com** 
+👀 I am a quick and analytical Learner love to discuss about: Data Structures and Algorithms, Programming in Java, Computer concepts(Operating Systems,Computer Networking, Databases, Problem Solving), Low Level Design, High Level Design.
+🌱 I’m currently learning **System Design!**
+📫 How to reach me **sarveshdutt1999@outlook.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
