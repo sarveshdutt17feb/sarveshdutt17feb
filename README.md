@@ -11,7 +11,7 @@
 <h3 align="center">I am a Backend Developer with strong Problem solving skills using Datastructres & Algorithms, Database and SQL, Low Level Design, High Level Design and currently upskilling myself using scaler!</h3>
 
 
-- My primary coding language: Java and I am flexible to learn any language
+- My primary coding language is Java and I am flexible to learn any language.
 - 👀 I am a quick and analytical Learner love to discuss about: Data Structures and Algorithms, Programming in Java, Computer concepts(Operating Systems,Computer Networking, Databases, Problem Solving), Low Level Design, High Level Design.
 - 🌱 I’m currently learning **System Design!**
 - 📫 How to reach me **sarveshdutt1999@outlook.com** 
