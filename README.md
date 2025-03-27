@@ -31,6 +31,7 @@ https://camo.githubusercontent.com/55b7cced822b1f0bd19a3b2f786554eccda448b9a518c
 <p align="left">
 <ul>
   <li><a href="https://github.com/sarveshdutt17feb/EazyMart/tree/015ecbd6085d0f81ca7f921a5efcae02e5d73780/">E-Mart</a></li>
+  <li><a href="https://github.com/sarveshdutt17feb/TaskZen/tree/12bc640881013fd685fe9527c2bafbb6c4e92624/">TaskZen</a></li>
 </ul>
 </p>
 <h3 align="left">Skills: </h3>
