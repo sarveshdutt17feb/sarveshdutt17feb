@@ -9,7 +9,8 @@
 
 <b>Thanks for visiting my profile</b>
 <h3 align="center">I am a Backend Developer with strong Problem solving skills using Datastructres & Algorithms, Database and SQL, Low Level Design, High Level Design and currently upskilling myself using scaler!</h3>
-<h3></h3>My primary coding language: Java and I am flexible to learn any language.</h3>
+
+<h4>My primary coding language: Java and I am flexible to learn any language.</h4>
 
 - 👀 I am a quick and analytical Learner love to discuss about: Data Structures and Algorithms, Programming in Java, Computer concepts(Operating Systems,Computer Networking, Databases, Problem Solving), Low Level Design, High Level Design.
 - 🌱 I’m currently learning **System Design!**
