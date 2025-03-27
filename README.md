@@ -5,13 +5,18 @@
 
   ## 👨🏻‍💻 &nbsp;About Me
 
-  <b>Thanks for visiting my profile.Here, what you should know about me:</b>
-- I am a Software Engineer and  self driven passionate coder who loves to solve problems and write efficient codes.
--  My primary coding language: Java.
+  <b>Thanks for visiting my profile</b>
+<h3 align="center">I am a Backend Developer with strong Problem solving skills using Datastructres & Algorithms, Database and SQL, Low Level Design, High Level Design and currently upskilling myself using scaler!</h3>
+-  My primary coding language: Java and I am flexible to learn any language.
 
-- 👀 I am happy to discuss about: Data Structures and Algorithms, Programming in Java, Computer concepts(Operating Systems,Computer Networking,Databases), Low Level Design, High Level Design.
-- 🌱 I’m currently working on Backend Development.
-- 💞️ I’m looking to collaborate on open source projects.
+- 👀 I am a quick and analytical Learner love to discuss about: Data Structures and Algorithms, Programming in Java, Computer concepts(Operating Systems,Computer Networking, Databases, Problem Solving), Low Level Design, High Level Design.
+- 🌱 I’m currently learning **System Design!**
+- 📫 How to reach me **sarveshdutt1999@outlook.com** 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sarvesh-dutt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sarvesh Dutt" height="30" width="40" /></a>
+</p>
 
 
 ## 🔧 Technologies & Tools
