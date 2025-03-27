@@ -86,8 +86,9 @@ https://camo.githubusercontent.com/55b7cced822b1f0bd19a3b2f786554eccda448b9a518c
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarveshdutt17feb&show_icons=true&locale=en&layout=compact" alt="Sarvesh Richhariya" />
   <img src="https://github-readme-stats.vercel.app/api?username=sarveshdutt17feb&show_icons=true&locale=en" alt="Sarvesh Richhariya" />
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=sarveshdutt1999" alt="LeetCode Badges"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarveshdutt1999" alt="Sarvesh Dutt" />
+  
+  <!--<img src="https://leetcode-badge-showcase.vercel.app/api?username=sarveshdutt1999" alt="LeetCode Badges"/>-->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarveshdutt17feb" alt="Sarvesh Dutt" />
 
 </p>
 
