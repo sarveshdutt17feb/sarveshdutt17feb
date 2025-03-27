@@ -30,7 +30,7 @@ https://camo.githubusercontent.com/55b7cced822b1f0bd19a3b2f786554eccda448b9a518c
 <h3 align="left">Projects: </h3>
 <p align="left">
 <ul>
-  <li><a href="https://github.com/sarveshdutt17feb/EazyMart/tree/3ef9f9c5f3dd977cb647a1c6cb9fc27cde11ee3b/TicTacToe">E-Mart</a></li>
+  <li><a href="https://github.com/sarveshdutt17feb/EazyMart/tree/015ecbd6085d0f81ca7f921a5efcae02e5d73780/">E-Mart</a></li>
 </ul>
 </p>
 <h3 align="left">Skills: </h3>
@@ -39,7 +39,8 @@ https://camo.githubusercontent.com/55b7cced822b1f0bd19a3b2f786554eccda448b9a518c
   <li>Data Structures and algorithms</li>
   <li>Core Java and concurrent/Multithreaded programming using Java 8 or above</li>
   <li>SQL programming using MySQL, Schema Design</li>
-  <li>Design Patterns & UML diagrams</li>
+  <li>Design Patterns, Solid Principles, Object Oriented Analysis and Design</li>
+  <li>Spring boot, Spring MVC, Spring Data JPA, Microservices, Kafka</li>
 </ul>
 </p>
 <h3 align="left">Languages and Tools:</h3>
@@ -82,21 +83,6 @@ https://camo.githubusercontent.com/55b7cced822b1f0bd19a3b2f786554eccda448b9a518c
             alt="windows" width="40" height="40" /> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer">          
 </p>
 
-
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-DataStructures&Algorithms-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Intelij-informational?style=flat&logo=eclipseide&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=eclipseide&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-SpringDataJPA-informational?style=flat&logo=eclipseide&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Multithreading-informational?style=flat&logo=eclipseide&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-OOPS-informational?style=flat&logo=eclipseide&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 
 ## 📫 &nbsp; How to reach me:
 <a href="https://www.linkedin.com/in/sarvesh-dutt"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
