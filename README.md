@@ -8,7 +8,7 @@
   ## 👨🏻‍💻 &nbsp;About Me
 
 <b>Thanks for visiting my profile</b>
-<h3 align="center">I am a Backend Developer with strong Problem solving skills using Data structures & Algorithms, Database and SQL, Low Level Design, High Level Design and currently upskilling myself using scaler!</h3>
+<h3 >I am a Backend Engineer with strong Problem solving skills using Data structures & Algorithms, Database and SQL, Low Level Design, High Level Design and currently upskilling myself using scaler!</h3>
 
 
 
