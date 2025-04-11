@@ -39,7 +39,7 @@
 <ul>
 
 
-<li><a href="https://github.com/sarveshdutt17feb/LLD3April25/tree/d70e771169b0bcbba9ac6868109e1988037a0541/LLD3/LLD3/src/main/java/com/sarvesh/LLD3/TicTacToe">Tic Tac Toe Game</a></li>
+<li><a href="https://github.com/sarveshdutt17feb/LLD3April25/tree/d70e771169b0bcbba9ac6868109e1988037a0541/LLD3/LLD3/src/main/java/com/sarvesh/LLD3/TicTacToe">Tic Tac Toe with undo & replay feature</a></li>
   <li><a href="https://github.com/sarveshdutt17feb/EazyMart/tree/015ecbd6085d0f81ca7f921a5efcae02e5d73780/">E-Mart</a></li>
   <li><a href="https://github.com/sarveshdutt17feb/TaskZen/tree/12bc640881013fd685fe9527c2bafbb6c4e92624/">TaskZen</a></li>
 </ul>
