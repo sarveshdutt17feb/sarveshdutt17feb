@@ -25,8 +25,8 @@
 
 - My primary coding language is Java.
 - 👀 I am a quick and analytical Learner love to discuss about: Data Structures and Algorithms, Programming in Java, Computer concepts(Operating Systems,Computer Networking, Databases, Problem Solving), Low Level Design, High Level Design.
-- 🌱 I’m currently learning ** High Level System Design!**
-- 📫 How to reach me **sarveshdutt1999@outlook.com** 
+- 🌱 I’m currently exploring ** High Level System Design!**
+- 📫 How to reach me **richhariyasarvesh@gmail.com** 
   
 
 <h3 align="left">Connect with me:</h3>
