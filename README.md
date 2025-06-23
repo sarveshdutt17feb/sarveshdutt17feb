@@ -6,7 +6,8 @@
 
   ## 👨🏻‍💻 &nbsp;About Me
 
-<b>Thanks for visiting my profile.Currently I am looking for Backend Development Role</b>
+<b>Thanks for visiting my profile</b>
+<b><h4>Currently I am looking for Backend Development Role. Feel free to Contact me if you have opportunities</h4></b>
 <h3 >I am a Backend Engineer with strong Problem solving skills using Data structures & Algorithms, Database and SQL, Low Level Design, High Level Design!</h3>
 
 
@@ -24,7 +25,7 @@
 
 
 - My primary coding language is Java.
-- 👀 I am a quick and analytical Learner love to discuss about: Data Structures and Algorithms, Programming in Java, Computer concepts(Operating Systems,Computer Networking, Databases, Problem Solving), Low Level Design, High Level Design.
+- 👀 I am a quick Learner love to discuss about: Data Structures and Algorithms, Programming in Java, Computer concepts(Operating Systems,Computer Networking, Databases, Problem Solving), Low Level Design, High Level Design.
 - 🌱 I’m currently exploring ** High Level System Design!**
 - 📫 How to reach me **richhariyasarvesh@gmail.com** 
   
@@ -40,8 +41,8 @@
 
 
 <li><a href="https://github.com/sarveshdutt17feb/LLD3April25/tree/d70e771169b0bcbba9ac6868109e1988037a0541/LLD3/LLD3/src/main/java/com/sarvesh/LLD3/TicTacToe">Tic Tac Toe with Undo & Replay features</a></li>
-   <li><a href="https://github.com/sarveshdutt17feb/EazyMart/tree/6a9c0a797c7980a54da2211227c8ba9dcb671da1">EazyMart</a></li>
-  <li><a href="https://github.com/sarveshdutt17feb/TaskZen/tree/12bc640881013fd685fe9527c2bafbb6c4e92624/">TaskZen</a></li>
+   <li><a href="https://github.com/sarveshdutt17feb/EazyMart/tree/6a9c0a797c7980a54da2211227c8ba9dcb671da1">Eazymart</a></li>
+  <li><a href="https://github.com/sarveshdutt17feb/TaskZen/tree/12bc640881013fd685fe9527c2bafbb6c4e92624/">Taskzen</a></li>
 </ul>
 </p>
 <h3 align="left">Skills: </h3>
