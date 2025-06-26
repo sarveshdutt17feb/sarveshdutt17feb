@@ -7,7 +7,7 @@
   ## 👨🏻‍💻 &nbsp;About Me
 
 <b>Thanks for visiting my profile</b>
-<b><h4>Currently I am looking for Backend Development Role. Feel free to Contact me if you have opportunities</h4></b>
+<b><h4>I am interested in Backend Development Role. Feel free to Contact me if you have opportunities</h4></b>
 <h3 >I am a Backend Engineer with strong Problem solving skills using Data structures & Algorithms, Database and SQL, Low Level Design, High Level Design!</h3>
 
 
