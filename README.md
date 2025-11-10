@@ -6,7 +6,7 @@
 
   ## 👨🏻‍💻 &nbsp;About Me
 
-<h3 >I am a Backend Engineer with strong Problem solving skills including Data structures & Algorithms, Database design and SQL, Low Level Design, High Level Design of an Application!</h3>
+<h3 >I am a Software Engineer currently working at Clario as Backend Engineer Having strong Problem solving skills including Data structures & Algorithms, Database design and SQL, Low Level Design, High Level Design of an Application!</h3>
 
 <b><h4>Let's connect to explore opportunities where I can leverage my technical expertise to create powerful backend experiences!</h4></b>
 
