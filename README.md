@@ -6,7 +6,7 @@
 
   ## 👨🏻‍💻 &nbsp;About Me
 
-<h3 >I am a Backend Engineer with strong Problem solving skills using Data structures & Algorithms, Database and SQL, Low Level Design, High Level Design!</h3>
+<h3 >I am a Backend Engineer with strong Problem solving skills including Data structures & Algorithms, Database design and SQL, Low Level Design, High Level Design of an Application!</h3>
 
 <b><h4>Let's connect to explore opportunities where I can leverage my technical expertise to create powerful backend experiences!</h4></b>
 
@@ -24,9 +24,8 @@
 
 
 
-- My primary coding language is Java.
-- 👀 I am a quick Learner love to discuss about: Data Structures and Algorithms, Programming in Java, Computer concepts(Operating Systems,Computer Networking, Databases, Problem Solving), Low Level Design, High Level Design.
-- 🌱 I’m currently exploring ** High Level System Design!**
+- Currently I am coding in Java and I can Learn any language within with less span of time.
+- 👀 I am a quick Learner love to discuss about: Data Structures & Algorithms, Programming, Databases, Problem Solving, Low Level Design, High Level Design.
 - 📫 How to reach me **richhariyasarvesh@gmail.com** 
   
 
@@ -49,9 +48,9 @@
 <h3 align="left">Skills: </h3>
 <p align="left">
 <ul>
-  <li>Data Structures and algorithms</li>
+  <li>Data Structures & algorithms</li>
   <li>Core Java and concurrent/Multithreaded programming using Java 8 or above</li>
-  <li>SQL programming using MySQL, Schema Design</li>
+  <li>SQL programming using MySQL, Schema Design, System Design</li>
   <li>Design Patterns, Solid Principles, Object Oriented Analysis and Design</li>
   <li>Spring boot, Spring MVC, Spring Data JPA, Microservices, Kafka</li>
 </ul>
